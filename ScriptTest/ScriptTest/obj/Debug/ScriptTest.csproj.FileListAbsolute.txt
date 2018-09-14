@@ -1,0 +1,10 @@
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\bin\Debug\ScriptTest.exe.config
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\bin\Debug\ScriptTest.exe
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\bin\Debug\ScriptTest.pdb
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\obj\Debug\ScriptTest.Form1.resources
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\obj\Debug\ScriptTest.Properties.Resources.resources
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\obj\Debug\ScriptTest.csproj.GenerateResource.cache
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\obj\Debug\ScriptTest.csproj.CoreCompileInputs.cache
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\obj\Debug\ScriptTest.exe
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\obj\Debug\ScriptTest.pdb
+C:\Users\rafael.azevedo\source\repos\ScriptTest\ScriptTest\obj\Debug\ScriptTest.csprojAssemblyReference.cache
